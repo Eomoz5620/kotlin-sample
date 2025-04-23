@@ -19,7 +19,7 @@ Ce projet Kotlin est un exemple minimal contenant des dépendances **vulnérable
 
 ```bash
 git clone https://github.com/Eomoz5620/kotlin-sample.git
-cd kotlin-trivy-demo
+ cd kotlin-sample
 ```
 
 ---

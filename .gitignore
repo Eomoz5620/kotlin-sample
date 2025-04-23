@@ -1,2 +1,15 @@
-build/
+# Build
+/build/
+/out/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
 .gradle/
+**/build/
+gradle-app.setting
+grad

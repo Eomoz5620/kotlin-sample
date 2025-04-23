@@ -1,1 +1,7 @@
-rootProject.name = "vuln-demo"
+rootProject.name = "spring-sample"
+
+dependencyResolutionManagement {
+    versionCatalogs {
+        create("libs") {}
+    }
+}
